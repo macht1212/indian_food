@@ -1,6 +1,6 @@
 # Indian Food Analysis
 
-This repository used raw data from the ___ website, which provided data on Indian cuisine.  
+This repository used raw data from the kaggle.com website, which provided data on Indian cuisine.  
 The main conclusions that can be drawn from the data analysis:  
 1. Vegetarian dishes make up the largest share of Indian cuisine.  
 2. Basically, the total cooking time does not exceed 100 minutes.  
